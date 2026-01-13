@@ -57,7 +57,7 @@ I’m a tech enthusiast focused on <b>programming, data analysis, and problem-so
 ---
 
 ### 🤝 Let's Connect
-- 📧 Email: [Your Email Here]
+- 📧 Email: [Mannat Bansal](bansalmannatbansal@gmail.com)
 - 💼 LinkedIn: [Mannat Bansal](https://linkedin.com/in/mannat-bansal)
 - 🏆 Codeforces: [bansalmannatbansal](https://codeforces.com/profile/bansalmannatbansal)
 
