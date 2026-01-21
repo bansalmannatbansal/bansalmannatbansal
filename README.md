@@ -10,7 +10,9 @@ I’m a tech enthusiast focused on <b>programming, data analysis, and problem-so
 
 <p align="center">
   <a href="https://linkedin.com/in/mannat-bansal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.behance.net/mannatbansal1"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
   <a href="https://kaggle.com/mannatbansal"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+  <a href="https://codolio.com/profile/bansalmannatbansal"><img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codolio&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/bansalmannatbansal"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
   <a href="https://www.leetcode.com/bansalmannatbansal"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
   <a href="https://www.hackerrank.com/@bansalmannatban1"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
@@ -29,9 +31,18 @@ I’m a tech enthusiast focused on <b>programming, data analysis, and problem-so
 | :--- | :--- |
 | **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Data & DB** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
-| **Robotics** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)  |
+| **Robotics** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) |
+| **Design** | ![Fusion 360](https://img.shields.io/badge/Fusion%20360-F5792A?style=flat-square&logo=autodesk&logoColor=white) |
 | **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)|
-| **Learning** | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) ![Regex](https://img.shields.io/badge/Regex-blueviolet?style=flat-square) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)|
+| **Learning** | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) ![Regex](https://img.shields.io/badge/Regex-blueviolet?style=flat-square) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) ![Firmware](https://img.shields.io/badge/Firmware_Design-5C5C5C?style=flat-square)|
+
+---
+
+### 📊 Coding Stats
+
+<p align="center">
+  <img src="https://dsastats.vercel.app/api?username=bansalmannatbansal&theme=radical" alt="Mannat's Codolio Stats" />
+</p>
 
 ---
 
@@ -52,6 +63,7 @@ I’m a tech enthusiast focused on <b>programming, data analysis, and problem-so
 ### 🤝 Let's Connect
 - 📧 Email: [Mannat Bansal](bansalmannatbansal@gmail.com)
 - 💼 LinkedIn: [Mannat Bansal](https://linkedin.com/in/mannat-bansal)
+- 🎨 Behance: [Mannat Bansal](https://www.behance.net/mannatbansal1)
 - 🏆 Codeforces: [bansalmannatbansal](https://codeforces.com/profile/bansalmannatbansal)
 
 <p align="right">
