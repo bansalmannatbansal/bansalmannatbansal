@@ -41,7 +41,7 @@ I'm a tech enthusiast focused on <b>programming, data analysis, and problem-solv
 ### 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/OnDIOxfp15?theme=dark&font=Fira%20Code&ext=heatmap&hide=ranking" alt="Mannat's LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/mannatbansal?theme=dark&font=Fira%20Code&ext=heatmap&hide=ranking" alt="Mannat's LeetCode Stats" />
 </p>
 
 ---
