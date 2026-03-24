@@ -65,4 +65,4 @@ I'm a tech enthusiast focused on <b>programming, data analysis, and problem-solv
 
 <p align="right">
   <i>"Writing clean code is like writing a good book—it's for the reader, not just the computer."</i>
-</p>3
+</p>
