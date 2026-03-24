@@ -62,8 +62,6 @@ I'm a tech enthusiast focused on <b>programming, data analysis, and problem-solv
 ### 🤝 Let's Connect
 - 📧 Email: [Mannat Bansal](bansalmannatbansal@gmail.com)
 - 💼 LinkedIn: [Mannat Bansal](https://linkedin.com/in/mannat-bansal)
-- 🎨 Behance: [Mannat Bansal](https://www.behance.net/mannatbansal1)
-- 🏆 Codeforces: [bansalmannatbansal](https://codeforces.com/profile/bansalmannatbansal)
 
 <p align="right">
   <i>"Writing clean code is like writing a good book—it's for the reader, not just the computer."</i>
