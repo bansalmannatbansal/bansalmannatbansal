@@ -24,9 +24,6 @@ I'm a tech enthusiast focused on <b>programming, data analysis, and problem-solv
   <a href="https://www.leetcode.com/OnDIOxfp15">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black" />
   </a>&nbsp;
-  <a href="https://www.hackerrank.com/@bansalmannatban1">
-    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=flat-square&logo=hackerrank&logoColor=white" />
-  </a>
 </p>
 
 ---
