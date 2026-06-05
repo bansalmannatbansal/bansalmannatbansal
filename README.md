@@ -69,6 +69,7 @@ I'm a tech enthusiast focused on <b>programming, data analysis, and problem-solv
 * 📊 **Data Visualization Dashboards:** Building interactive Tableau stories for KPI tracking and data interpretation.
 * ⚡ **Energy Monitoring System:** IoT solution using ESP32 and PZEM-004T for real-time energy analytics.
 * 🤖 **Automation Lab Projects:** Practical application of CAD, sensors, and actuators in robotic environments.
+* 🌌 **RishiLearn — LMS:**  Glassmorphic Learning Management System built with vanilla HTML, CSS & JS featuring attendance tracking, course catalog, gamified leaderboard, and authentication portal across 5 fully responsive modules.
 
 ---
 
