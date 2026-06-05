@@ -9,7 +9,7 @@ I'm a tech enthusiast focused on <b>programming, data analysis, and problem-solv
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mannat-bansal-a81539283">
+  <a href="https://linkedin.com/in/mannat-bansal">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.behance.net/mannatbansal1">
@@ -93,7 +93,7 @@ I'm a tech enthusiast focused on <b>programming, data analysis, and problem-solv
 
 ### 🤝 Let's Connect
 - 📧 Email: [bansalmannatbansal@gmail.com](mailto:bansalmannatbansal@gmail.com)
-- 💼 LinkedIn: [Mannat Bansal](https://linkedin.com/in/mannat-bansal-a81539283)
+- 💼 LinkedIn: [Mannat Bansal](https://linkedin.com/in/mannat-bansal)
 
 <p align="right">
   <i>"Writing clean code is like writing a good book—it's for the reader, not just the computer."</i>
