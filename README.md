@@ -9,14 +9,11 @@ I'm a tech enthusiast focused on <b>programming, data analysis, and problem-solv
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mannat-bansal">
+  <a href="https://linkedin.com/in/mannat-bansal-a81539283">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.behance.net/mannatbansal1">
     <img src="https://img.shields.io/badge/Behance-%231769ff.svg?style=flat-square&logo=behance&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://kaggle.com/mannatbansal">
-    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat-square&logo=kaggle&logoColor=white" />
   </a>&nbsp;
   <a href="https://codolio.com/profile/bansalmannatbansal">
     <img src="https://img.shields.io/badge/Codolio-%23000000.svg?style=flat-square&logoColor=white" />
@@ -89,7 +86,7 @@ I'm a tech enthusiast focused on <b>programming, data analysis, and problem-solv
 
 ### 🤝 Let's Connect
 - 📧 Email: [bansalmannatbansal@gmail.com](mailto:bansalmannatbansal@gmail.com)
-- 💼 LinkedIn: [Mannat Bansal](https://linkedin.com/in/mannat-bansal)
+- 💼 LinkedIn: [Mannat Bansal](https://linkedin.com/in/mannat-bansal-a81539283)
 
 <p align="right">
   <i>"Writing clean code is like writing a good book—it's for the reader, not just the computer."</i>
