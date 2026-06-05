@@ -65,6 +65,7 @@ I'm a tech enthusiast focused on <b>programming, data analysis, and problem-solv
 ---
 
 ### 🔨 Featured Projects
+* 📊 **Netflix Movies & TV Shows Analysis** — Capstone project analyzing ~10,000 Netflix titles to uncover trends in genres, ratings, and popularity. Includes data wrangling, feature engineering, and visualizations built with Pandas, Matplotlib, and Seaborn.
 * 📊 **Data Visualization Dashboards:** Building interactive Tableau stories for KPI tracking and data interpretation.
 * ⚡ **Energy Monitoring System:** IoT solution using ESP32 and PZEM-004T for real-time energy analytics.
 * 🤖 **Automation Lab Projects:** Practical application of CAD, sensors, and actuators in robotic environments.
