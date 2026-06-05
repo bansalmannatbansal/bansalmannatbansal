@@ -10,24 +10,34 @@ I'm a tech enthusiast focused on <b>programming, data analysis, and problem-solv
 
 <p align="center">
   <a href="https://linkedin.com/in/mannat-bansal-a81539283">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.behance.net/mannatbansal1">
-    <img src="https://img.shields.io/badge/Behance-%231769ff.svg?style=flat-square&logo=behance&logoColor=white" />
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://kaggle.com/mannatbansal">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
   </a>&nbsp;
   <a href="https://codolio.com/profile/bansalmannatbansal">
-    <img src="https://img.shields.io/badge/Codolio-%23000000.svg?style=flat-square&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codolio-000000?style=flat-square&logoColor=white" />
   </a>&nbsp;
   <a href="https://codeforces.com/profile/bansalmannatbansal">
-    <img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=flat-square&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.leetcode.com/OnDIOxfp15">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
   </a>&nbsp;
   <a href="https://public.tableau.com/app/profile/mannat.bansal">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  </a>&nbsp;
+  </a>
 </p>
+
+---
+
+### 🔭 Currently Working On
+- 🌌 **[RishiLearn — LMS](https://github.com/bansalmannatbansal/Capstone_project_1_Web_Dev)** — Full-stack Learning Management System with Flask REST API backend and glassmorphic vanilla JS frontend. *(Team Project)*
+
+---
 
 ### 🛠️ Tech Stack & Tools
 
@@ -65,17 +75,21 @@ I'm a tech enthusiast focused on <b>programming, data analysis, and problem-solv
 ---
 
 ### 🔨 Featured Projects
-* 📊 **Netflix Movies & TV Shows Analysis** — Capstone project analyzing ~10,000 Netflix titles to uncover trends in genres, ratings, and popularity. Includes data wrangling, feature engineering, and visualizations built with Pandas, Matplotlib, and Seaborn.
-* 📊 **Data Visualization Dashboards:** Building interactive Tableau stories for KPI tracking and data interpretation.
-* ⚡ **Energy Monitoring System:** IoT solution using ESP32 and PZEM-004T for real-time energy analytics.
-* 🤖 **Automation Lab Projects:** Practical application of CAD, sensors, and actuators in robotic environments.
-* 🌌 **RishiLearn — LMS:**  Glassmorphic Learning Management System built with vanilla HTML, CSS & JS featuring attendance tracking, course catalog, gamified leaderboard, and authentication portal across 5 fully responsive modules.
+
+* 🌌 **[RishiLearn — LMS](https://github.com/bansalmannatbansal/Capstone_project_1_Web_Dev)** — Full-stack Learning Management System built with Flask REST API and vanilla HTML/CSS/JS featuring glassmorphic UI, attendance tracking, gamified leaderboard, and authentication portal. *(Team Project)*
+* 📊 **[Netflix Movies & TV Shows Analysis](https://github.com/Aarush2112/Capstone-Project-1-FDS)** — Capstone project analyzing 10,000+ Netflix titles to uncover trends in genres, ratings, and popularity using Pandas, Matplotlib, and Seaborn. *(Team Project)*
+* 🖨️ **[PrintLab — Campus Printing App](https://github.com/bansalmannatbansal/pod-website-printing.vercel.app)** — Fully responsive Single Page Application for campus print ordering built with vanilla HTML, CSS, and JavaScript. Features SPA router, live queue indicators, and animated cart built from scratch.
+* 🏥 **[Clinic Multi-Doctor Scheduler](https://github.com/bansalmannatbansal/Clinic-Multi-Doctor-Scheduler-Mini-Project-)** — Python CLI application with SQLite3 backend simulating a real clinic's scheduling system with multi-doctor appointment and cancellation management.
+* ⚡ **[Energy Monitoring System](https://github.com/bansalmannatbansal/AC-Energy-Monitering-System)** — Real-time IoT energy monitoring system using ESP32 and PZEM-004T tracking live electrical parameters to analyze and reduce energy wastage.
 
 ---
 
 ### 🌱 Learning Journey
+- 🎯 Mastering **C#** for application development.
 - 🐍 Exploring **Advanced Python** for automation and EDA.
 - 🤖 Diving into **Automation & AI** — building workflows with n8n, developing RAG pipelines, and integrating LLM APIs.
+
+---
 
 ### 🤝 Let's Connect
 - 📧 Email: [bansalmannatbansal@gmail.com](mailto:bansalmannatbansal@gmail.com)
