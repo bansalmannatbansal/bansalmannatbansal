@@ -73,10 +73,8 @@ I'm a tech enthusiast focused on <b>programming, data analysis, and problem-solv
 ---
 
 ### 🌱 Learning Journey
-- 🎯 Mastering **C#** for application development.
 - 🐍 Exploring **Advanced Python** for automation and EDA.
-
----
+- 🤖 Diving into **Automation & AI** — building workflows with n8n, developing RAG pipelines, and integrating LLM APIs.
 
 ### 🤝 Let's Connect
 - 📧 Email: [bansalmannatbansal@gmail.com](mailto:bansalmannatbansal@gmail.com)
