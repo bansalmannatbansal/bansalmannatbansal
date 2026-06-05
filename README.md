@@ -29,13 +29,6 @@ I'm a tech enthusiast focused on <b>programming, data analysis, and problem-solv
   </a>&nbsp;
 </p>
 
----
-
-### 🔭 Currently Working On
-- 🏥 **[Clinic Multi-Doctor Scheduler](https://github.com/bansalmannatbansal/Clinic-Multi-Doctor-Scheduler)** — A system designed to streamline healthcare scheduling and management.
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 | Category | Skills & Tools |
